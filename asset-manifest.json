@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.95c3cee7.css",
-    "main.js": "/static/js/main.977298cb.js",
-    "static/media/nag_system_architecture.drawio.svg": "/static/media/nag_system_architecture.drawio.38e07f2c2ce9a301381718cb24d50db5.svg",
-    "static/media/self.png": "/static/media/self.6de4a1332f2bd16388c2.png",
-    "static/media/safari_erd.png": "/static/media/safari_erd.ea753f75719f91b735f2.png",
-    "static/media/nag_erd.png": "/static/media/nag_erd.d467bcdcc9df1d8dba3e.png",
-    "static/media/oongle_erd.png": "/static/media/oongle_erd.a2bc0950ff969297bcac.png",
-    "static/media/garden.svg": "/static/media/garden.d14d55b69ed2baa4f98f8740a9b46383.svg",
-    "index.html": "/index.html",
-    "main.95c3cee7.css.map": "/static/css/main.95c3cee7.css.map",
-    "main.977298cb.js.map": "/static/js/main.977298cb.js.map"
+    "main.css": "/portfolio/static/css/main.95c3cee7.css",
+    "main.js": "/portfolio/static/js/main.1087cdb9.js",
+    "static/media/nag_system_architecture.drawio.svg": "/portfolio/static/media/nag_system_architecture.drawio.38e07f2c2ce9a301381718cb24d50db5.svg",
+    "static/media/self.png": "/portfolio/static/media/self.6de4a1332f2bd16388c2.png",
+    "static/media/safari_erd.png": "/portfolio/static/media/safari_erd.ea753f75719f91b735f2.png",
+    "static/media/nag_erd.png": "/portfolio/static/media/nag_erd.d467bcdcc9df1d8dba3e.png",
+    "static/media/oongle_erd.png": "/portfolio/static/media/oongle_erd.a2bc0950ff969297bcac.png",
+    "static/media/garden.svg": "/portfolio/static/media/garden.d14d55b69ed2baa4f98f8740a9b46383.svg",
+    "index.html": "/portfolio/index.html",
+    "main.95c3cee7.css.map": "/portfolio/static/css/main.95c3cee7.css.map",
+    "main.1087cdb9.js.map": "/portfolio/static/js/main.1087cdb9.js.map"
   },
   "entrypoints": [
     "static/css/main.95c3cee7.css",
-    "static/js/main.977298cb.js"
+    "static/js/main.1087cdb9.js"
   ]
 }
